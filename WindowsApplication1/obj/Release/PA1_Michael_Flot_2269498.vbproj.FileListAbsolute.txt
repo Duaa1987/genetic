@@ -1,0 +1,33 @@
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Release\WindowsApplication1.exe.config
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Release\WindowsApplication1.exe
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Release\WindowsApplication1.pdb
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Release\WindowsApplication1.xml
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Release\PA1_Michael_Flot_2269498.vbprojResolveAssemblyReference.cache
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.ProtienSynth.resources
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.Resources.resources
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Release\PA1_Michael_Flot_2269498.vbproj.GenerateResource.Cache
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.exe
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.xml
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.pdb
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Genetic Algorithm\WindowsApplication1\bin\Release\WindowsApplication1.exe.config
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Genetic Algorithm\WindowsApplication1\obj\Release\WindowsApplication1.exe
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Genetic Algorithm\WindowsApplication1\obj\Release\WindowsApplication1.xml
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Genetic Algorithm\WindowsApplication1\obj\Release\WindowsApplication1.pdb
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Genetic Algorithm\WindowsApplication1\bin\Release\WindowsApplication1.exe
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Genetic Algorithm\WindowsApplication1\bin\Release\WindowsApplication1.pdb
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Genetic Algorithm\WindowsApplication1\bin\Release\WindowsApplication1.xml
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Genetic Algorithm\WindowsApplication1\obj\Release\WindowsApplication1.ProtienSynth.resources
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Genetic Algorithm\WindowsApplication1\obj\Release\WindowsApplication1.Resources.resources
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Genetic Algorithm\WindowsApplication1\obj\Release\PA1_Michael_Flot_2269498.vbproj.GenerateResource.Cache
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Genetic Algorithm\WindowsApplication1\obj\Release\PA1_Michael_Flot_2269498.vbprojResolveAssemblyReference.cache
+C:\Users\duaaa\Desktop\Genetic Algorithm Project\WindowsApplication1\bin\Release\WindowsApplication1.exe.config
+C:\Users\duaaa\Desktop\Genetic Algorithm Project\WindowsApplication1\bin\Release\WindowsApplication1.exe
+C:\Users\duaaa\Desktop\Genetic Algorithm Project\WindowsApplication1\bin\Release\WindowsApplication1.pdb
+C:\Users\duaaa\Desktop\Genetic Algorithm Project\WindowsApplication1\bin\Release\WindowsApplication1.xml
+C:\Users\duaaa\Desktop\Genetic Algorithm Project\WindowsApplication1\obj\Release\PA1_Michael_Flot_2269498.vbprojResolveAssemblyReference.cache
+C:\Users\duaaa\Desktop\Genetic Algorithm Project\WindowsApplication1\obj\Release\WindowsApplication1.ProtienSynth.resources
+C:\Users\duaaa\Desktop\Genetic Algorithm Project\WindowsApplication1\obj\Release\WindowsApplication1.Resources.resources
+C:\Users\duaaa\Desktop\Genetic Algorithm Project\WindowsApplication1\obj\Release\PA1_Michael_Flot_2269498.vbproj.GenerateResource.Cache
+C:\Users\duaaa\Desktop\Genetic Algorithm Project\WindowsApplication1\obj\Release\WindowsApplication1.exe
+C:\Users\duaaa\Desktop\Genetic Algorithm Project\WindowsApplication1\obj\Release\WindowsApplication1.xml
+C:\Users\duaaa\Desktop\Genetic Algorithm Project\WindowsApplication1\obj\Release\WindowsApplication1.pdb
